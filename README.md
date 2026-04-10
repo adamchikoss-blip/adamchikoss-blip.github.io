@@ -1,2 +1,2 @@
 # adamchikoss-blip.github.io
-Personal repository
+Vibe-coded Minecraft website
